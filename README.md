@@ -85,4 +85,7 @@ iOS应用架构谈 开篇
 
 IOS绘图详解
 http://www.netfoucs.com/article/u012858744/66499.html
+ReactiveCocoa学习资料
 ReactiveCocoa:https://github.com/ReactiveCocoaChina
+快速生成model属性插件
+https://github.com/EnjoySR/ESJsonFormat-Xcode
