@@ -1,62 +1,62 @@
 # StudyFile
-Our learning materials
-//博客集合
-https://github.com/tangqiaoboy/iOSBlogCN
-iOS开发-清理缓存功能的实现
-http://www.open-open.com/lib/view/open1425625126743.html
-AFNetworking2.0源码解析<一>
-http://blog.csdn.net/chaoyuan899/article/details/45246413
-NSError code错误列表信息(NSFileManage、NSURL...)
-http://www.douban.com/note/222451918/
-http://blog.csdn.net/pingchangtan367/article/details/8315733
-ipa使用企业账号重签名并支持推送
-http://www.ithao123.cn/content-6380375.html
-Xcode中代码控制标记----------
-http://blog.csdn.net/hu_songsong/article/details/12874493
-适配iOS7SDK的经验总结
-http://blog.sina.com.cn/s/blog_6f0c91880101bgwj.html
-GitHub 上排名前 100 的 Objective-C 项目简介
-http://www.oschina.net/news/61416/github-top-100-objective-c-projects?from=20150412ReactiveCocoa
-AppDelegate中几个常用的回调调用时机
-iOS安全
-http://security.ios-wiki.com/ 
-设计模式
-http://blog.csdn.net/zhengzhb/article/category/926691/1
-cocoaPods
-http://code4app.com/article/cocoapods-install-usage
-ruby
-ios开发线路简述
-http://www.cocoachina.com/ios/20150303/11218.html
-iOS开发 贝塞尔曲线UIBezierPath - 陌云
-http://www.tuicool.com/articles/uyiEBv
-OC基础好文
-http://blog.csdn.net/namehzf/article/details/6894090
-划线demo
-http://code4app.com/category/drawing
-CoreGraphics.framework 
-http://www.cnblogs.com/ygm900/p/3167334.html
-UIview需要知道的一些事情：setNeedsDisplay、setNeedsLayout
-http://blog.sina.com.cn/s/blog_923fdd9b0101b2b4.html
-从 Objective-C 里的 Alloc 和 AllocWithZone 谈起
-w3school  html等等
-http://www.w3school.com.cn/index.html 
-OC 到 UI 全面教程
-http://www.cnblogs.com/kenshincui/p/3985090.html
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－博客－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-唐巧技术博客
-http://www.devtang.com/blog/categories/ios/
-唐老师博客
-http://www.brighttj.com 
-王巍技术博客
-http://onevcat.com
-iOS开发之让你的应用“动”起来
-http://www.cocoachina.com/ios/20141022/10005.html
-UIKit各类概述
-http://blog.csdn.net/mars_cyw/article/details/7644570
-iOS应用架构谈 开篇                     
-IOS绘图详解
-http://www.netfoucs.com/article/u012858744/66499.html
-ReactiveCocoa学习资料
-ReactiveCocoa:https://github.com/ReactiveCocoaChina
-快速生成model属性插件
+Our learning materials<br />
+//博客集合<br />
+https://github.com/tangqiaoboy/iOSBlogCN<br />
+iOS开发-清理缓存功能的实现<br />
+http://www.open-open.com/lib/view/open1425625126743.html<br />
+AFNetworking2.0源码解析&lt;一&gt;<br />
+http://blog.csdn.net/chaoyuan899/article/details/45246413<br />
+NSError code错误列表信息(NSFileManage、NSURL...)<br />
+http://www.douban.com/note/222451918/<br />
+http://blog.csdn.net/pingchangtan367/article/details/8315733<br />
+ipa使用企业账号重签名并支持推送<br />
+http://www.ithao123.cn/content-6380375.html<br />
+Xcode中代码控制标记----------<br />
+http://blog.csdn.net/hu_songsong/article/details/12874493<br />
+适配iOS7SDK的经验总结<br />
+http://blog.sina.com.cn/s/blog_6f0c91880101bgwj.html<br />
+GitHub 上排名前 100 的 Objective-C 项目简介<br />
+http://www.oschina.net/news/61416/github-top-100-objective-c-projects?from=20150412ReactiveCocoa<br />
+AppDelegate中几个常用的回调调用时机<br />
+iOS安全<br />
+http://security.ios-wiki.com/&nbsp;<br />
+设计模式<br />
+http://blog.csdn.net/zhengzhb/article/category/926691/1<br />
+cocoaPods<br />
+http://code4app.com/article/cocoapods-install-usage<br />
+ruby<br />
+ios开发线路简述<br />
+http://www.cocoachina.com/ios/20150303/11218.html<br />
+iOS开发 贝塞尔曲线UIBezierPath - 陌云<br />
+http://www.tuicool.com/articles/uyiEBv<br />
+OC基础好文<br />
+http://blog.csdn.net/namehzf/article/details/6894090<br />
+划线demo<br />
+http://code4app.com/category/drawing<br />
+CoreGraphics.framework&nbsp;<br />
+http://www.cnblogs.com/ygm900/p/3167334.html<br />
+UIview需要知道的一些事情：setNeedsDisplay、setNeedsLayout<br />
+http://blog.sina.com.cn/s/blog_923fdd9b0101b2b4.html<br />
+从 Objective-C 里的 Alloc 和 AllocWithZone 谈起<br />
+w3school &nbsp;html等等<br />
+http://www.w3school.com.cn/index.html&nbsp;<br />
+OC 到 UI 全面教程<br />
+http://www.cnblogs.com/kenshincui/p/3985090.html<br />
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－博客－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
+唐巧技术博客<br />
+http://www.devtang.com/blog/categories/ios/<br />
+唐老师博客<br />
+http://www.brighttj.com&nbsp;<br />
+王巍技术博客<br />
+http://onevcat.com<br />
+iOS开发之让你的应用“动”起来<br />
+http://www.cocoachina.com/ios/20141022/10005.html<br />
+UIKit各类概述<br />
+http://blog.csdn.net/mars_cyw/article/details/7644570<br />
+iOS应用架构谈 开篇 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+IOS绘图详解<br />
+http://www.netfoucs.com/article/u012858744/66499.html<br />
+ReactiveCocoa学习资料<br />
+ReactiveCocoa:https://github.com/ReactiveCocoaChina<br />
+快速生成model属性插件<br />
 https://github.com/EnjoySR/ESJsonFormat-Xcode
