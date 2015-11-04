@@ -57,7 +57,7 @@ iOS应用架构谈 开篇 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 IOS绘图详解<br />
 http://www.netfoucs.com/article/u012858744/66499.html<br />
 ReactiveCocoa学习资料<br />
-ReactiveCocoa:https://github.com/ReactiveCocoaChina<br />
+https://github.com/ReactiveCocoaChina<br />
 快速生成model属性插件<br />
 https://github.com/EnjoySR/ESJsonFormat-Xcode
 git终端操作<br />
