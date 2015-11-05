@@ -65,3 +65,7 @@ http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0
 朋友圈demo <br />
 https://github.com/UncleJoke/JKMoments <br />
 iOS应用架构谈 本地持久化方案及动态部署 <br /> http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html <br />
+iOS应用架构谈 view层的组织和调用方案 <br />
+http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html <br />
+iOS JSON 模型转换库评测 <br />
+http://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/<br />
