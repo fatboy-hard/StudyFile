@@ -38,34 +38,36 @@ http://www.cnblogs.com/ygm900/p/3167334.html<br />
 UIview需要知道的一些事情：setNeedsDisplay、setNeedsLayout<br />
 http://blog.sina.com.cn/s/blog_923fdd9b0101b2b4.html<br />
 从 Objective-C 里的 Alloc 和 AllocWithZone 谈起<br />
-w3school &nbsp;html等等<br />
+w3school &nbsp;html等等:<br />
 http://www.w3school.com.cn/index.html&nbsp;<br />
-OC 到 UI 全面教程<br />
+OC 到 UI 全面教程:<br />
 http://www.cnblogs.com/kenshincui/p/3985090.html<br />
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－博客－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
-唐巧技术博客<br />
+唐巧技术博客:<br />
 http://www.devtang.com/blog/categories/ios/<br />
-唐老师博客<br />
+唐老师博客:<br />
 http://www.brighttj.com&nbsp;<br />
-王巍技术博客<br />
+王巍技术博客:<br />
 http://onevcat.com<br />
-iOS开发之让你的应用“动”起来<br />
+iOS开发之让你的应用“动”起来:<br />
 http://www.cocoachina.com/ios/20141022/10005.html<br />
-UIKit各类概述<br />
+UIKit各类概述:<br />
 http://blog.csdn.net/mars_cyw/article/details/7644570<br />
 iOS应用架构谈 开篇 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
-IOS绘图详解<br />
+IOS绘图详解:<br />
 http://www.netfoucs.com/article/u012858744/66499.html<br />
-ReactiveCocoa学习资料<br />
+ReactiveCocoa学习资料:<br />
 https://github.com/ReactiveCocoaChina<br />
-快速生成model属性插件<br />
+快速生成model属性插件:<br />
 https://github.com/EnjoySR/ESJsonFormat-Xcode
-git终端操作<br />
+git终端操作:<br />
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000 homebrew<br />
-朋友圈demo <br />
+朋友圈demo: <br />
 https://github.com/UncleJoke/JKMoments <br />
-iOS应用架构谈 本地持久化方案及动态部署 <br /> http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html <br />
-iOS应用架构谈 view层的组织和调用方案 <br />
+iOS应用架构谈 本地持久化方案及动态部署: <br /> http://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html <br />
+iOS应用架构谈 view层的组织和调用方案: <br />
 http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html <br />
-iOS JSON 模型转换库评测 <br />
+iOS JSON 模型转换库评测: <br />
 http://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/<br />
+YTKNetwork: <br />
+https://github.com/yuantiku/YTKNetwork <br />
