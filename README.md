@@ -78,3 +78,5 @@ Method Swizzling手段实现方法拦截:<br />
 https://github.com/steipete/Aspects<br />
 RACSignal的Subscription深入分析 <br />
 http://www.cocoachina.com/ios/20150710/12478.html <br />
+//动画开源组件 <br />
+https://github.com/Animatious/awesome-animation <br />
