@@ -86,3 +86,5 @@ http://www.cocoachina.com/ios/20150601/11970.html <br />
 https://github.com/search?utf8=✓&q=uuchart <br />
 cell 自适应 <br />
 https://github.com/forkingdog/UITableView-FDTemplateLayoutCell <br />
+tableViewCell 侧滑 <br />
+https://github.com/MortimerGoro/MGSwipeTableCell <br />
