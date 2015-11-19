@@ -88,3 +88,5 @@ cell 自适应 <br />
 https://github.com/forkingdog/UITableView-FDTemplateLayoutCell <br />
 tableViewCell 侧滑 <br />
 https://github.com/MortimerGoro/MGSwipeTableCell <br />
+地图中心选点Demo(高德)<br />
+https://github.com/hadesh/AMapPlaceChooseDemo <br />
