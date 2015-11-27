@@ -3,6 +3,7 @@ Our learning materials<br />
 //博客集合<br />
 https://github.com/tangqiaoboy/iOSBlogCN<br />
 http://casatwy.com/category/blog.html <br />
+http://blog.ibireme.com <br />
 开源中国社区: <br />
 http://objccn.io <br />
 iOS开发-清理缓存功能的实现<br />
