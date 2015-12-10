@@ -101,3 +101,5 @@ https://github.com/ibireme/YYKit <br />
 https://github.com/qfish?tab=repositories <br />
 聊天框架 <br />
  https://github.com/jessesquires/JSQMessagesViewController <br />
+git命令使用清单 <br />
+http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html <br />
