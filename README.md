@@ -105,3 +105,5 @@ https://github.com/qfish?tab=repositories <br />
  https://github.com/jessesquires/JSQMessagesViewController <br />
 git命令使用清单 <br />
 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html <br />
+启动动画 <br />
+https://github.com/YoungCarmen/AdImageAnimation <br />
