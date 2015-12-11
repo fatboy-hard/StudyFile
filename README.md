@@ -55,6 +55,8 @@ http://www.brighttj.com&nbsp;<br />
 http://onevcat.com<br />
 iOS开发之让你的应用“动”起来:<br />
 http://www.cocoachina.com/ios/20141022/10005.html<br />
+Quartz 2D <br />
+http://www.cnblogs.com/kenshincui/p/3959951.html <br />
 UIKit各类概述:<br />
 http://blog.csdn.net/mars_cyw/article/details/7644570<br />
 iOS应用架构谈 开篇 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
