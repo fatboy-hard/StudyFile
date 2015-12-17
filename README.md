@@ -109,3 +109,5 @@ http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html <br />
 https://github.com/YoungCarmen/AdImageAnimation <br />
 城市选择器 <br />
 https://github.com/panyaorui/CityList <br />
+转场动画 <br />
+http://www.jianshu.com/p/45434f73019e <br />
