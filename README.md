@@ -25,6 +25,8 @@ AppDelegate中几个常用的回调调用时机<br />
 iOS安全<br />
 http://security.ios-wiki.com/&nbsp;<br />
 设计模式<br />
+-通讯录、蓝牙、内购、GameCenter、iCloud、Passbook系统服务开发汇总 <br />
+http://www.cocoachina.com/ios/20150129/11068.html <br />
 http://blog.csdn.net/zhengzhb/article/category/926691/1<br />
 cocoaPods<br />
 http://code4app.com/article/cocoapods-install-usage<br />
