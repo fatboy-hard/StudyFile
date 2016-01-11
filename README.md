@@ -122,3 +122,5 @@ http://www.cocoachina.com/bbs/read.php?tid-303236.html < br />
 http://www.cricode.com/2001.html <br />
 顶部滑动菜单 <br />
 http://www.jianshu.com/p/b45655e23a42 <br />
+如何正确地写好一个界面 <br />
+http://oncenote.com/2015/12/08/How-to-build-UI/<br />
