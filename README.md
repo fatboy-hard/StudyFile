@@ -124,3 +124,5 @@ http://www.cricode.com/2001.html <br />
 http://www.jianshu.com/p/b45655e23a42 <br />
 如何正确地写好一个界面 <br />
 http://oncenote.com/2015/12/08/How-to-build-UI/<br />
+iOS 架构模式–解密 MVC，MVP，MVVM以及VIPER架构 <br />
+http://ios.jobbole.com/83727/ <br />
