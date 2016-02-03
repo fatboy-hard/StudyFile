@@ -128,3 +128,5 @@ iOS 架构模式–解密 MVC，MVP，MVVM以及VIPER架构 <br />
 http://ios.jobbole.com/83727/ <br />
 自然流畅、清新的单元格折叠动画类及演示 < br />
 https://github.com/Ramotion/folding-cell <br />
+iOS 资源大全 <br />
+http://ios.jobbole.com/83907/#getting-started <br />
