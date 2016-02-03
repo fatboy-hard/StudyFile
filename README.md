@@ -126,3 +126,5 @@ http://www.jianshu.com/p/b45655e23a42 <br />
 http://oncenote.com/2015/12/08/How-to-build-UI/<br />
 iOS 架构模式–解密 MVC，MVP，MVVM以及VIPER架构 <br />
 http://ios.jobbole.com/83727/ <br />
+自然流畅、清新的单元格折叠动画类及演示 < br />
+https://github.com/Ramotion/folding-cell <br />
