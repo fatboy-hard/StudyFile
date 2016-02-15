@@ -131,3 +131,5 @@ https://github.com/Ramotion/folding-cell <br />
 iOS 资源大全 <br />
 http://ios.jobbole.com/83907/#getting-started <br />
 https://github.com/jobbole/awesome-ios-cn <br />
+证书无效解决 <br />
+https://blog.6ag.cn/1407.html <br />
