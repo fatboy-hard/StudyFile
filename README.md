@@ -133,3 +133,5 @@ http://ios.jobbole.com/83907/#getting-started <br />
 https://github.com/jobbole/awesome-ios-cn <br />
 证书无效解决 <br />
 https://blog.6ag.cn/1407.html <br />
+三方即时通讯常用框架 <br />
+http://www.henishuo.com/im-common-control/ <br />
