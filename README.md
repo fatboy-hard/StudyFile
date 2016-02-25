@@ -135,3 +135,5 @@ https://github.com/jobbole/awesome-ios-cn <br />
 https://blog.6ag.cn/1407.html <br />
 三方即时通讯常用框架 <br />
 http://www.henishuo.com/im-common-control/ <br />
+网络状态检查 <br />
+https://github.com/dustturtle/RealReachability <br />
