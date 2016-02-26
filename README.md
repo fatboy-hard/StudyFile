@@ -137,3 +137,5 @@ https://blog.6ag.cn/1407.html <br />
 http://www.henishuo.com/im-common-control/ <br />
 网络状态检查 <br />
 https://github.com/dustturtle/RealReachability <br />
+技术文章 <br />
+http://wdxtub.com/about/ <br />
