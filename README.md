@@ -141,3 +141,5 @@ https://github.com/dustturtle/RealReachability <br />
 http://wdxtub.com/about/ <br />
 runTime <br />
 http://www.henishuo.com/runtime-base-theory/
+支付宝/微信支付坑 <br />
+http://ios.jobbole.com/85228/ <br />
