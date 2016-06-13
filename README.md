@@ -144,4 +144,6 @@ http://www.henishuo.com/runtime-base-theory/
 支付宝/微信支付坑 <br />
 http://ios.jobbole.com/85228/ <br />
 核心动画<br />
-https://zsisme.gitbooks.io/ios-/content/index.html
+https://zsisme.gitbooks.io/ios-/content/index.html <br />
+开源 网易等框架<br />
+http://www.cocoachina.com/ios/20160613/16665.html <br />
