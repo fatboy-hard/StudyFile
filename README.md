@@ -148,3 +148,5 @@ http://ios.jobbole.com/85228/ <br />
 https://zsisme.gitbooks.io/ios-/content/index.html <br />
 开源 网易等框架<br />
 http://www.cocoachina.com/ios/20160613/16665.html <br />
+jspatch <br />
+https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545005&idx=1&sn=5da8510afc267870c9e879ec49f09808&scene=0&key=77421cf58af4a653612fae1d290d1d01a4579e5fbf98bc4a5cfc3b6b362507d34197793ca999442394ff3c9cee9de3c4&ascene=0&uin=NDU1NzA2MTk1&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=bd1o7JgOeZChcvGnoiVVu6ssDtJTqZ1hfLR49RC1uL2hHfNcq4WceHvZ1kON6dRh
