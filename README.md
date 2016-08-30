@@ -156,3 +156,5 @@ https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545005&idx=1&sn=5da851
 https://github.com/mwaterfall/MWPhotoBrowser<br />
 内存检测工具<br />
 https://github.com/Zepo/MLeaksFinder<br />
+思维导图破解版<br />
+http://xclient.info/s/mind-node-pro.html
