@@ -160,3 +160,5 @@ https://github.com/Zepo/MLeaksFinder<br />
 http://xclient.info/s/mind-node-pro.html<br />
 runloop 讲解 <br />
 http://v.youku.com/v_show/id_XODgxODkzODI0.html?beta& <br />
+直播技术<br />
+http://lib.csdn.net/base/57?source=blogtop
