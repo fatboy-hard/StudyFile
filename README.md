@@ -1,9 +1,9 @@
 # StudyFile
 Our learning materials<br />
 //博客集合<br />
-https://github.com/tangqiaoboy/iOSBlogCN<br />
-http://casatwy.com/category/blog.html <br />
-http://blog.ibireme.com yykit作者  <br /> 
+<a href="https://github.com/tangqiaoboy/iOSBlogCN">iOSBlogCN</a><br />
+<a href="http://casatwy.com/category/blog.html">casatwy</a><br />
+<a href="http://blog.ibireme.com">yykit作者</a> <br /> 
 http://blog.leichunfeng.com/blog/archives/  雷纯峰 <br />
 http://kittenyang.com/tag/iosdian-di  <br />
 http://www.jianshu.com/p/27072745078f <br />
@@ -154,14 +154,10 @@ jspatch <br />
 https://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545005&idx=1&sn=5da8510afc267870c9e879ec49f09808&scene=0&key=77421cf58af4a653612fae1d290d1d01a4579e5fbf98bc4a5cfc3b6b362507d34197793ca999442394ff3c9cee9de3c4&ascene=0&uin=NDU1NzA2MTk1&devicetype=iMac+MacBookAir6%2C2+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=bd1o7JgOeZChcvGnoiVVu6ssDtJTqZ1hfLR49RC1uL2hHfNcq4WceHvZ1kON6dRh<br />
 照片浏览框架<br />
 https://github.com/mwaterfall/MWPhotoBrowser<br />
-内存检测工具<br />
-https://github.com/Zepo/MLeaksFinder<br />
-思维导图破解版<br />
-http://xclient.info/s/mind-node-pro.html<br />
-runloop 讲解 <br />
-http://v.youku.com/v_show/id_XODgxODkzODI0.html?beta& <br />
-直播技术<br />
-http://lib.csdn.net/base/57?source=blogtop<br />
-http://blog.csdn.net/leixiaohua1020/article/details/15811977/<br />
-GCD 深入理解 <br />
-<a href="https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md">GCD</a>
+
+<a href="https://github.com/Zepo/MLeaksFinder">内存检测工具</a><br />
+<a href="http://xclient.info/s/mind-node-pro.html">思维导图破解版</a><br />
+<a href="http://v.youku.com/v_show/id_XODgxODkzODI0.html?beta&">runloop 讲解</a><br />
+<a href="http://lib.csdn.net/base/57?source=blogtop">直播技术</a><br />
+<a href="http://blog.csdn.net/leixiaohua1020/article/details/15811977/">直播技术博客</a><br />
+<a href="https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md">GCD 深入理解</a>
