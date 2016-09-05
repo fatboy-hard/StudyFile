@@ -1,34 +1,21 @@
 # StudyFile
 Our learning materials<br />
-//博客集合<br />
 <a href="https://github.com/tangqiaoboy/iOSBlogCN">iOSBlogCN</a><br />
 <a href="http://casatwy.com/category/blog.html">casatwy</a><br />
 <a href="http://blog.ibireme.com">yykit作者</a> <br /> 
-http://blog.leichunfeng.com/blog/archives/  雷纯峰 <br />
-http://kittenyang.com/tag/iosdian-di  <br />
-http://www.jianshu.com/p/27072745078f <br />
-http://blog.cnbang.net/archives/ <br />
-开源中国社区: <br />
-http://objccn.io <br />
-iOS开发-清理缓存功能的实现<br />
-http://www.open-open.com/lib/view/open1425625126743.html<br />
-AFNetworking2.0源码解析&lt;一&gt;<br />
-http://blog.csdn.net/chaoyuan899/article/details/45246413<br />
-NSError code错误列表信息(NSFileManage、NSURL...)<br />
-http://www.douban.com/note/222451918/<br />
-http://blog.csdn.net/pingchangtan367/article/details/8315733<br />
-ipa使用企业账号重签名并支持推送<br />
-http://www.ithao123.cn/content-6380375.html<br />
-Xcode中代码控制标记----------<br />
-http://blog.csdn.net/hu_songsong/article/details/12874493<br />
-适配iOS7SDK的经验总结<br />
-http://blog.sina.com.cn/s/blog_6f0c91880101bgwj.html<br />
-GitHub 上排名前 100 的 Objective-C 项目简介<br />
-http://www.oschina.net/news/61416/github-top-100-objective-c-projects?from=20150412ReactiveCocoa<br />
-AppDelegate中几个常用的回调调用时机<br />
-iOS安全<br />
-http://security.ios-wiki.com/&nbsp;<br />
-设计模式<br />
+<a href="http://blog.leichunfeng.com/blog/archives/">雷纯峰</a><br />
+<a href="http://kittenyang.com/tag/iosdian-di">iosdian</a><br />
+<a href="http://www.jianshu.com/p/27072745078">简书</a><br />
+<a href="http://www.jianshu.com/p/27072745078f">简书</a><br />
+<a href="http://blog.cnbang.net/archives/">cnbang</a><br />
+<a href="http://objccn.io">开源中国社区</a><br />
+<a href="http://www.open-open.com/lib/view/open1425625126743.html">iOS开发-清理缓存功能的实现</a><br />
+<a href="http://blog.csdn.net/chaoyuan899/article/details/45246413">AFNetworking2.0源码解析</a><br />
+<a href="http://www.douban.com/note/222451918/">NSError code错误列表信息(NSFileManage、NSURL...)</a><br />
+<a href="http://blog.csdn.net/pingchangtan367/article/details/8315733">NSError code错误列表信息(NSFileManage、NSURL...)</a><br />
+<a href="http://www.ithao123.cn/content-6380375.html">ipa使用企业账号重签名并支持推送</a><br />
+<a href="http://blog.csdn.net/hu_songsong/article/details/12874493">Xcode中代码控制标记</a><br />
+<a href="http://www.oschina.net/news/61416/github-top-100-objective-c-projects?from=20150412ReactiveCocoa">GitHub 上排名前 100 的 Objective-C 项目简介</a><br />
 -通讯录、蓝牙、内购、GameCenter、iCloud、Passbook系统服务开发汇总 <br />
 http://www.cocoachina.com/ios/20150129/11068.html <br />
 http://blog.csdn.net/zhengzhb/article/category/926691/1<br />
