@@ -164,4 +164,4 @@ http://v.youku.com/v_show/id_XODgxODkzODI0.html?beta& <br />
 http://lib.csdn.net/base/57?source=blogtop<br />
 http://blog.csdn.net/leixiaohua1020/article/details/15811977/<br />
 GCD 深入理解 <br />
-<a src=https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md>GCD</a>
+<a href="https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md">GCD</a>
