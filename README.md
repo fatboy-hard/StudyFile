@@ -1,6 +1,6 @@
 # StudyFile
 Our learning materials<br />
-https://github.com/100mango/MangoTools
+<a href="http://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545124&idx=1&sn=2d9fcb9eeba075b2c1b7a60e07c46bfc#rd">Charles 从入门到精通</a><br />
 <a href="https://github.com/100mango/MangoTools">简单工具</a><br />
 <a href="https://github.com/yuantiku/YTKKeyValueStore">sqlite3</a><br />
 <a href="http://www.cocoachina.com/bbs/read.php?tid=134344">播放系统声音&震动&系统声音对照表</a><br />
