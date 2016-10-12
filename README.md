@@ -19,7 +19,7 @@ Our learning materials<br />
 <li><a href ="http://www.brighttj.com&nbsp">蓝牙</a><br /></li>
 <li><a href ="http://www.cocoachina.com/ios/20141022/10005.html">iOS开发之让你的应用“动”起来</a><br /></li>
 <li><a href ="http://www.cnblogs.com/kenshincui/p/3959951.html">Quartz 2D </a><br /></li>
-</lu>
+
 
 
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－<h1><strong>博客</strong></h1>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
