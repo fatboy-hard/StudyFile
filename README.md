@@ -1,11 +1,28 @@
 # StudyFile
 Our learning materials<br />
-<a href="https://github.com/chenfanfang/AvoidCrash">防止崩溃</a><br />
-<a href="https://github.com/ZipArchive/ZipArchive">iOSzip</a><br />
-<a href="http://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545124&idx=1&sn=2d9fcb9eeba075b2c1b7a60e07c46bfc#rd">Charles 从入门到精通</a><br />
-<a href="https://github.com/100mango/MangoTools">简单工具</a><br />
-<a href="https://github.com/yuantiku/YTKKeyValueStore">sqlite3</a><br />
-<a href="http://www.cocoachina.com/bbs/read.php?tid=134344">播放系统声音&震动&系统声音对照表</a><br />
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－<h1><strong>工具 文章</strong></h1>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
+<lu>
+ <li><a href="https://github.com/chenfanfang/AvoidCrash">防止崩溃</a><br /></li>
+ <li><a href="https://github.com/ZipArchive/ZipArchive">iOSzip</a><br /></li>
+<li><a href="http://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545124&idx=1&sn=2d9fcb9eeba075b2c1b7a60e07c46bfc#rd">Charles 从入门到精通</a><br /></li>
+<li><a href="https://github.com/100mango/MangoTools">简单工具</a><br /></li>
+<li><a href="https://github.com/yuantiku/YTKKeyValueStore">sqlite3</a><br /></li>
+<li><a href="http://www.cocoachina.com/bbs/read.php?tid=134344">播放系统声音&震动&系统声音对照表</a><br /></li>
+<li><a href="http://objccn.io">开源中国社区</a><br /></li>
+<li><a href="http://www.open-open.com/lib/view/open1425625126743.html">iOS开发-清理缓存功能的实现</a><br /></li>
+<li><a href="http://blog.csdn.net/chaoyuan899/article/details/45246413">AFNetworking2.0源码解析</a><br /></li>
+<li><a href="http://www.douban.com/note/222451918/">NSError code错误列表信息(NSFileManage、NSURL...)</a><br /></li>
+<li><a href="http://blog.csdn.net/pingchangtan367/article/details/8315733">NSError code错误列表信息(NSFileManage、NSURL...)</a><br /></li>
+<li><a href="http://www.ithao123.cn/content-6380375.html">ipa使用企业账号重签名并支持推送</a><br /></li>
+<li><a href="http://blog.csdn.net/hu_songsong/article/details/12874493">Xcode中代码控制标记</a><br /></li>
+<li><a href="http://www.oschina.net/news/61416/github-top-100-objective-c-projects?from=20150412ReactiveCocoa">GitHub 上排名前 100 的 
+<li><a href ="http://www.brighttj.com&nbsp">蓝牙</a><br /></li>
+<li><a href ="http://www.cocoachina.com/ios/20141022/10005.html">iOS开发之让你的应用“动”起来</a><br /></li>
+<li><a href ="http://www.cnblogs.com/kenshincui/p/3959951.html">Quartz 2D </a><br /></li>
+</lu>
+
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<h1><strong>博客</strong></h1>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
 <a href="https://github.com/tangqiaoboy/iOSBlogCN">iOSBlogCN</a><br />
 <a href="http://casatwy.com/category/blog.html">casatwy</a><br />
 <a href="http://blog.ibireme.com">yykit作者</a> <br /> 
@@ -14,48 +31,10 @@ Our learning materials<br />
 <a href="http://www.jianshu.com/p/27072745078">简书</a><br />
 <a href="http://www.jianshu.com/p/27072745078f">简书</a><br />
 <a href="http://blog.cnbang.net/archives/">cnbang</a><br />
-<a href="http://objccn.io">开源中国社区</a><br />
-<a href="http://www.open-open.com/lib/view/open1425625126743.html">iOS开发-清理缓存功能的实现</a><br />
-<a href="http://blog.csdn.net/chaoyuan899/article/details/45246413">AFNetworking2.0源码解析</a><br />
-<a href="http://www.douban.com/note/222451918/">NSError code错误列表信息(NSFileManage、NSURL...)</a><br />
-<a href="http://blog.csdn.net/pingchangtan367/article/details/8315733">NSError code错误列表信息(NSFileManage、NSURL...)</a><br />
-<a href="http://www.ithao123.cn/content-6380375.html">ipa使用企业账号重签名并支持推送</a><br />
-<a href="http://blog.csdn.net/hu_songsong/article/details/12874493">Xcode中代码控制标记</a><br />
-<a href="http://www.oschina.net/news/61416/github-top-100-objective-c-projects?from=20150412ReactiveCocoa">GitHub 上排名前 100 的 Objective-C 项目简介</a><br />
--通讯录、蓝牙、内购、GameCenter、iCloud、Passbook系统服务开发汇总 <br />
-http://www.cocoachina.com/ios/20150129/11068.html <br />
-http://blog.csdn.net/zhengzhb/article/category/926691/1<br />
-cocoaPods<br />
-http://code4app.com/article/cocoapods-install-usage<br />
-ruby<br />
-ios开发线路简述<br />
-http://www.cocoachina.com/ios/20150303/11218.html<br />
-iOS开发 贝塞尔曲线UIBezierPath - 陌云<br />
-http://www.tuicool.com/articles/uyiEBv<br />
-OC基础好文<br />
-http://blog.csdn.net/namehzf/article/details/6894090<br />
-划线demo<br />
-http://code4app.com/category/drawing<br />
-CoreGraphics.framework&nbsp;<br />
-http://www.cnblogs.com/ygm900/p/3167334.html<br />
-UIview需要知道的一些事情：setNeedsDisplay、setNeedsLayout<br />
-http://blog.sina.com.cn/s/blog_923fdd9b0101b2b4.html<br />
-从 Objective-C 里的 Alloc 和 AllocWithZone 谈起<br />
-w3school &nbsp;html等等:<br />
-http://www.w3school.com.cn/index.html&nbsp;<br />
-OC 到 UI 全面教程:<br />
-http://www.cnblogs.com/kenshincui/p/3985090.html<br />
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－博客－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
-唐巧技术博客:<br />
-http://www.devtang.com/blog/categories/ios/<br />
-唐老师博客:<br />
-http://www.brighttj.com&nbsp;<br />
-王巍技术博客:<br />
-http://onevcat.com<br />
-iOS开发之让你的应用“动”起来:<br />
-http://www.cocoachina.com/ios/20141022/10005.html<br />
-Quartz 2D <br />
-http://www.cnblogs.com/kenshincui/p/3959951.html <br />
+
+
+
+
 UIKit各类概述:<br />
 http://blog.csdn.net/mars_cyw/article/details/7644570<br />
 iOS应用架构谈 开篇 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
@@ -112,33 +91,21 @@ https://github.com/panyaorui/CityList <br />
 http://www.jianshu.com/p/45434f73019e <br />
 QuartzCode 1.39.3 Objective-C和Swift动画神器工具  <br />
 http://www.ruanman.net/archives/9320.html <br />
-iOS 学习路线 <br />
-http://www.cocoachina.com/bbs/read.php?tid-303236.html < br />
 基础算法 <br />
 http://www.cricode.com/2001.html <br />
 顶部滑动菜单 <br />
 http://www.jianshu.com/p/b45655e23a42 <br />
-如何正确地写好一个界面 <br />
-http://oncenote.com/2015/12/08/How-to-build-UI/<br />
-iOS 架构模式–解密 MVC，MVP，MVVM以及VIPER架构 <br />
-http://ios.jobbole.com/83727/ <br />
 自然流畅、清新的单元格折叠动画类及演示 < br />
 https://github.com/Ramotion/folding-cell <br />
 iOS 资源大全 <br />
 http://ios.jobbole.com/83907/#getting-started <br />
 https://github.com/jobbole/awesome-ios-cn <br />
-证书无效解决 <br />
-https://blog.6ag.cn/1407.html <br />
-三方即时通讯常用框架 <br />
-http://www.henishuo.com/im-common-control/ <br />
 网络状态检查 <br />
 https://github.com/dustturtle/RealReachability <br />
 技术文章 <br />
 http://wdxtub.com/about/ <br />
 runTime <br />
 http://www.henishuo.com/runtime-base-theory/
-支付宝/微信支付坑 <br />
-http://ios.jobbole.com/85228/ <br />
 核心动画<br />
 https://zsisme.gitbooks.io/ios-/content/index.html <br />
 开源 网易等框架<br />
