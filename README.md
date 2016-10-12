@@ -1,6 +1,6 @@
 # StudyFile
 Our learning materials<br />
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－<h1><strong>工具 文章</strong></h1>－－－－－－－－－－－－－－－－－－－－－－－－－－－－－<br />
+<h1><strong>工具 文章</strong></h1>
 
  <li><a href="https://github.com/chenfanfang/AvoidCrash">防止崩溃</a><br /></li>
  <li><a href="https://github.com/ZipArchive/ZipArchive">iOSzip</a><br /></li>
